@@ -1,5 +1,8 @@
 # Push Notification
 
+![GitHub stars](https://img.shields.io/github/stars/samehesmael277/Push-Notification?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/samehesmael277/Push-Notification?style=flat-square)
+
 ## Overview
 
 Push Notification is a simple Android application that allows users to trigger notifications when they click a button. It also demonstrates the ability to send data from one activity to another. This app provides a basic example of working with notifications and navigating between activities.
